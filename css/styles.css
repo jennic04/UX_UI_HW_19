@@ -8,6 +8,9 @@
 /* Styles for whole site */
 
 /* breakpoints for media queries chosen based on https://material.io/archive/guidelines/layout/responsive-ui.html#responsive-ui-breakpoints */
+html {
+    scroll-behavior: smooth;
+}
 
 body {
     background-color: #efefef;
