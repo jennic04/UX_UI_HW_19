@@ -431,6 +431,11 @@
         height: auto;
     }
 
+    #scroll {
+        width: 44px;
+        height: 44px;
+    }
+
     .summary {
         /* border: 1px solid red; */
         display: grid;
